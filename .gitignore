@@ -1,0 +1,5 @@
+# Ignore everything inside js folder
+js/*
+
+# But do NOT ignore this specific file
+!js/logic.js
